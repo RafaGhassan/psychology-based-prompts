@@ -1,0 +1,5 @@
+Prompt yang ada dibawah ini merupakan prompt yang sudah aku klasifikasikan berdasarkan beberapa kelas dan juga berbagai video seputar prompt engineer. 
+Tetapi sebelum lebih jauh, ada beberapa hal yang harus diketahui lebih lanjut soal "prompt" ini. 
+
+Apa itu prompt?
+Prompt adalah...
